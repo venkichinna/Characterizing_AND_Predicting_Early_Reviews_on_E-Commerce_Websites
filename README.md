@@ -14,9 +14,9 @@ Develop a margin-based embedding model to predict early reviewers.
 
 ## Findings:
 
-- ** Early reviewers tend to provide higher rating scores and publish more helpful reviews.
-- ** Their ratings and helpfulness scores significantly influence product popularity.
-- ** Our proposed model outperforms competitive baselines in predicting early reviewers.
+- **Early reviewers tend to provide higher rating scores and publish more helpful reviews.
+- **Their ratings and helpfulness scores significantly influence product popularity.
+- **Our proposed model outperforms competitive baselines in predicting early reviewers.
 
 ## Requirements
 
