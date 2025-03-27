@@ -14,21 +14,21 @@ Develop a margin-based embedding model to predict early reviewers.
 
 ## Findings:
 
-- **Early reviewers tend to provide higher rating scores and publish more helpful reviews.
-- **Their ratings and helpfulness scores significantly influence product popularity.
-- **Our proposed model outperforms competitive baselines in predicting early reviewers.
+- Early reviewers tend to provide higher rating scores and publish more helpful reviews.
+- Their ratings and helpfulness scores significantly influence product popularity.
+- Our proposed model outperforms competitive baselines in predicting early reviewers.
 
 ## Requirements
 
 ### User Requirements:
 
-- ** The system must provide an intuitive user interface to access and interact with analysis results.
-- ** Interactive visualizations to explore early reviewer characteristics and their impact on sales.
-- ** Users should be able to input new reviews and receive predictions on their potential impact.
+- The system must provide an intuitive user interface to access and interact with analysis results.
+- Interactive visualizations to explore early reviewer characteristics and their impact on sales.
+- Users should be able to input new reviews and receive predictions on their potential impact.
 
 ### System Requirements:
 
-- ** Python 3.7 or later for backend processing.✔ XAMPP as the running platform for required program components.
+- Python 3.7 or later for backend processing.✔ XAMPP as the running platform for required program components.
 
 ## Technology Stack
 
@@ -39,18 +39,18 @@ Frontend Languages: HTML, CSS, JavaScript
 
 ## Purpose: Create an interactive and user-friendly interface for review input, analysis visualization, and recommendation display.
 Libraries Used:
-- ** Pandas, NumPy – Data processing and analysis✔ TensorFlow – Model training and prediction
+- Pandas, NumPy – Data processing and analysis✔ TensorFlow – Model training and prediction
 Development Platforms:
-- ** Python IDE – For backend development✔ VS Code – For frontend and full-stack integration
+- Python IDE – For backend development✔ VS Code – For frontend and full-stack integration
 
 3rd Party Components:
-- ** XAMPP – Provides Apache, MySQL, and PHP support for running the platform API.
+- XAMPP – Provides Apache, MySQL, and PHP support for running the platform API.
 
 ## Future Enhancements
 
-- ** Implement Machine Learning models to improve early review predictions.
-- ** Expand datasets to cover more e-commerce platforms.
-- ** Enhance UI/UX with dynamic dashboards and real-time analysis.
+- Implement Machine Learning models to improve early review predictions.
+- Expand datasets to cover more e-commerce platforms.
+- Enhance UI/UX with dynamic dashboards and real-time analysis.
 
 
 Characterizing and Predicting Early Reviewers on products from E-Commerce website
