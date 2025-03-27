@@ -28,7 +28,7 @@ Develop a margin-based embedding model to predict early reviewers.
 
 ### System Requirements:
 
-- Python 3.7 or later for backend processing.✔ XAMPP as the running platform for required program components.
+- Python 3.7 or later for backend processing. XAMPP as the running platform for required program components.
 
 ## Technology Stack
 
@@ -39,9 +39,9 @@ Frontend Languages: HTML, CSS, JavaScript
 
 ## Purpose: Create an interactive and user-friendly interface for review input, analysis visualization, and recommendation display.
 Libraries Used:
-- Pandas, NumPy – Data processing and analysis✔ TensorFlow – Model training and prediction
+- Pandas, NumPy – Data processing and analysis TensorFlow – Model training and prediction
 Development Platforms:
-- Python IDE – For backend development✔ VS Code – For frontend and full-stack integration
+- Python IDE – For backend development VS Code – For frontend and full-stack integration
 
 3rd Party Components:
 - XAMPP – Provides Apache, MySQL, and PHP support for running the platform API.
